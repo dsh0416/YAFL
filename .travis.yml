@@ -8,13 +8,9 @@ before_install:
   - brew update
   - brew install qt5 sqlite3
   - bundle config build.qml --with-qmake=$(brew --prefix qt5)/bin/qmake
-  - bundle install
-
-before_script:
-  - bundle update
 
 script:
-  - bundle spec
+  - rake spec
 
 rvm:
   - 2.2.0

@@ -1,7 +1,7 @@
 # YAFL
 **Yet Another Flashcard Learner**
 
-[![Gitter](https://badges.gitter.im/dsh0416/YAFL.svg)](https://gitter.im/dsh0416/YAFL?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Travis-ci](https://travis-ci.org/dsh0416/YAFL.svg)](https://travis-ci.org/dsh0416/YAFL)
+[![Gitter](https://badges.gitter.im/dsh0416/YAFL.svg)](https://gitter.im/dsh0416/YAFL?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Travis-ci](https://travis-ci.org/dsh0416/YAFL.svg)](https://travis-ci.org/dsh0416/YAFL)[![Coverage Status](https://coveralls.io/repos/github/dsh0416/YAFL/badge.svg?branch=master)](https://coveralls.io/github/dsh0416/YAFL?branch=master)
 
 ## Release
 

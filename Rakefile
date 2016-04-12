@@ -1,5 +1,3 @@
-require 'bundler'
-Bundler.require
 require 'rspec/core/rake_task'
 
 task :default => %i(spec)

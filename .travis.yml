@@ -12,6 +12,8 @@ before_install:
 script:
   - rake spec
 
+cache: bundler
+
 rvm:
   - 2.2.0
 

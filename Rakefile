@@ -4,7 +4,7 @@ task :default => %i(spec)
 
 desc 'Running the Specs.'
 RSpec::Core::RakeTask.new do |t|
-  t.pattern = 'spec.rb'
+  t.pattern = '*_spec.rb'
 end
 
 task :run do

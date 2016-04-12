@@ -19,5 +19,7 @@ script:
 rvm:
   - 2.2.0
 
+bundler_args: --jobs 1 --retry 3
+
 notifications:
   email: false

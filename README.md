@@ -1,7 +1,7 @@
 # YAFL
 **Yet Another Flashcard Learner**
 
-[![Gitter](https://badges.gitter.im/dsh0416/YAFL.svg)](https://gitter.im/dsh0416/YAFL?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Travis-ci](https://travis-ci.org/dsh0416/YAFL.svg)](https://travis-ci.org/dsh0416/YAFL) [![Coverage Status](https://coveralls.io/repos/github/dsh0416/YAFL/badge.svg?branch=master)](https://coveralls.io/github/dsh0416/YAFL?branch=master)
+[![Gitter](https://badges.gitter.im/dsh0416/YAFL.svg)](https://gitter.im/dsh0416/YAFL?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Travis-ci](https://travis-ci.org/dsh0416/YAFL.svg)](https://travis-ci.org/dsh0416/YAFL) [![Coverage Status](https://coveralls.io/repos/github/dsh0416/YAFL/badge.svg?branch=master)](https://coveralls.io/github/dsh0416/YAFL?branch=master) [![Dependency Status](https://gemnasium.com/badges/github.com/dsh0416/YAFL.svg)](https://gemnasium.com/github.com/dsh0416/YAFL) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
 
 ## Release
 

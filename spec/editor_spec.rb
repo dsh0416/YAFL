@@ -9,4 +9,15 @@ RSpec.describe 'editor' do
       expect(editor.id).to eq nil
     end
   end
+
+  context 'with a specific id given' do
+    it 'initialized with id 100' do
+      editor = Editor.new(100)
+      expect(editor.id).to eq 100
+    end
+
+    it 'initialized with a wrong type id' do
+      expect { Editor.new('test') }.to raise_error
+    end
+  end
 end

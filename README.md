@@ -1,7 +1,9 @@
 # YAFL
 **Yet Another Flashcard Learner**
 
-[![Gitter](https://badges.gitter.im/dsh0416/YAFL.svg)](https://gitter.im/dsh0416/YAFL?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Travis-ci](https://travis-ci.org/dsh0416/YAFL.svg)](https://travis-ci.org/dsh0416/YAFL) [![Coverage Status](https://coveralls.io/repos/github/dsh0416/YAFL/badge.svg?branch=master)](https://coveralls.io/github/dsh0416/YAFL?branch=master) [![Dependency Status](https://gemnasium.com/badges/github.com/dsh0416/YAFL.svg)](https://gemnasium.com/github.com/dsh0416/YAFL) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
+[![Gitter](https://badges.gitter.im/dsh0416/YAFL.svg)](https://gitter.im/dsh0416/YAFL?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Travis-ci](https://travis-ci.org/dsh0416/YAFL.svg)](https://travis-ci.org/dsh0416/YAFL) [![Coverage Status](https://coveralls.io/repos/github/dsh0416/YAFL/badge.svg?branch=master)](https://coveralls.io/github/dsh0416/YAFL?branch=master) [![Dependency Status](https://gemnasium.com/badges/github.com/dsh0416/YAFL.svg)](https://gemnasium.com/github.com/dsh0416/YAFL)
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/dsh0416/YAFL/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/dsh0416/YAFL.svg)](https://github.com/dsh0416/YAFL/issues) [![GitHub stars](https://img.shields.io/github/stars/dsh0416/YAFL.svg)](https://github.com/dsh0416/YAFL/stargazers) [![GitHub forks](https://img.shields.io/github/forks/dsh0416/YAFL.svg)](https://github.com/dsh0416/YAFL/network) 
 
 ## Release
 

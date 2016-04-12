@@ -1,0 +1,23 @@
+language: ruby
+sudo: false
+os:
+  - osx
+
+before_install:
+  - gem install bundler
+  - brew update
+  - brew install qt5 sqlite3
+  - bundle config build.qml --with-qmake=$(brew --prefix qt5)/bin/qmake
+  - bundle install
+
+before_script:
+  - bundle update
+
+script:
+  - bundle spec
+
+rvm:
+  - 2.3.0
+
+notifications:
+  email: false

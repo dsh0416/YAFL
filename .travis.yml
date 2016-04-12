@@ -5,15 +5,12 @@ os:
 
 before_install:
   - gem install bundler
-  - gem install rspec
   - brew update
   - brew install qt5 sqlite3
   - bundle config build.qml --with-qmake=$(brew --prefix qt5)/bin/qmake
 
 script:
   - rake spec
-
-cache: bundler
 
 rvm:
   - 2.2.0

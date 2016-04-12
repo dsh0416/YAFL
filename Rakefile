@@ -1,7 +1,10 @@
+require 'rspec/core/rake_task'
+
 task :default => %i(spec)
 
-task :spec do
-  # To be filled
+desc 'Running the Specs.'
+RSpec::Core::RakeTask.new do |t|
+  t.pattern = 'spec.rb'
 end
 
 task :run do

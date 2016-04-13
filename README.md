@@ -21,11 +21,11 @@ The tool met all the above needs is [Anki](https://github.com/dae/anki) which is
 
 ## Requirements
 
-YAFL is designed to be cross-platformed but native. [Qt 5](https://github.com/qtproject/qt) and [ruby-qml](https://github.com/seanchas116/ruby-qml) binding provides the option of a cross-platformed possibility to use a native GUI at all three main operation systems (Windows/ OS X/ Linux).
+YAFL is designed to be cross-platformed but native. [Qt 5](https://github.com/qtproject/qt) and [ruby-qml](https://github.com/seanchas116/ruby-qml) binding provides the option of a cross-platformed possibility to use a native GUI at all three main operation systems (Windows / OS X / Linux).
 
 A few differences were made in building the project in those three OSs. On OS X and Linux, [Rubinius](https://github.com/rubinius/rubinius) was used to build the ruby project to LLVM to provide better performance. But Rubinius still does not support Windows. [travelling-ruby](https://github.com/phusion/traveling-ruby) is the way of packaging the project on Windows.
 
-What if this project go toughly, it would be reconstruct into React project.
+What if this project go toughly, it would be reconstruct into an Electron project.
 
 ## Mobile Support
 

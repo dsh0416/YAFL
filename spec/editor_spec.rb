@@ -17,7 +17,7 @@ RSpec.describe 'editor' do
     end
 
     it 'initialized with a wrong type id' do
-      expect { Editor.new('test') }.to raise_error
+      expect { Editor.new('test') }.to raise_error(ArgumentError)
     end
   end
 end
